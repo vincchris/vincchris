@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm a passionate freelancer and aspiring startup founder with a love for exploring new technologies.<br>📚I'm currently diving deep into Machine Learning, Web Development, and Blockchain Development to expand my expertise and innovate in meaningful ways.<br>✨Fun Fact - I'm incredibly creative, but sometimes I struggle to bring my ideas to life. Despite that, I'm always eager to learn, grow, and turn challenges into opportunities!
+💻I'm a passionate freelancer and aspiring startup founder with a love for exploring new technologies.<br>📚I'm currently diving deep into Machine Learning, Web Development, and Blockchain Developer to expand my expertise and innovate in meaningful ways.<br>✨Fun Fact - I'm incredibly creative, but sometimes I struggle to bring my ideas to life. Despite that, I'm always eager to learn, grow, and turn challenges into opportunities!
 
 
 ## 🌐 Socials:
