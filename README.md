@@ -27,7 +27,7 @@ An **AI Engineer & Software Developer** who loves building intelligent systems a
 | | |
 |:--|:--|
 | 🤖 **Exploring** | AI, Machine Learning & AI Automation |
-| 🌐 **Learning** | AI Engineer and FS Developer |
+| 🌐 **Learning** | Fundamental of ML & AI and Mathematics |
 | 💼 **Status** | Freelancer & Software Developer |
 | 🎯 **Goal** | Turning ideas into scalable apps that deliver real value |
 
