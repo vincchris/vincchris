@@ -27,9 +27,8 @@ An **AI Engineer & Software Developer** who loves building intelligent systems a
 | | |
 |:--|:--|
 | 🤖 **Exploring** | AI, Machine Learning & AI Automation |
-| 🌐 **Learning** | Full-Stack Web Development |
-| ⛓️ **Curious about** | Blockchain Technology |
-| 💼 **Status** | Freelancer & aspiring startup founder 🚀 |
+| 🌐 **Learning** | AI Engineer and FS Developer |
+| 💼 **Status** | Freelancer & Software Developer |
 | 🎯 **Goal** | Turning ideas into scalable apps that deliver real value |
 
 <br/>
