@@ -1,41 +1,94 @@
-# 💫 About Me
+<!-- ☕ Cozy profile README for Vincent Christian -->
 
-Hi, I'm Vincent Christian 👋
+<div align="center">
 
-I'm an AI Engineer and Software Developer with a strong interest in building intelligent systems and impactful digital solutions. I am passionate about leveraging Artificial Intelligence, Machine Learning, and modern software development to solve real-world problems and create meaningful user experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6C0&height=200&section=header&text=Vincent%20Christian&fontSize=44&fontColor=6B4F3A&fontAlignY=38&desc=%E2%9C%A8%20AI%20Engineer%20%C2%B7%20Software%20Developer%20%E2%9C%A8&descSize=18&descAlignY=60&descColor=8B6B52" alt="header" />
 
-Currently, I am expanding my expertise in:
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Blockchain Technology
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B5835A&center=true&vCenter=true&width=520&lines=Hi%2C+welcome+to+my+little+corner+%E2%98%95;Building+intelligent+systems+%F0%9F%A4%96;Automating+things+with+AI+%E2%9A%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
-As a freelancer and aspiring startup founder, I enjoy exploring emerging technologies, developing innovative products, and continuously improving my technical and problem-solving skills. I am particularly interested in transforming ideas into scalable applications that deliver value to users and businesses.
+<br/>
 
-I believe that continuous learning, creativity, and persistence are key drivers of innovation. Every project is an opportunity to grow, experiment, and build solutions that make a positive impact.
+[![Instagram](https://img.shields.io/badge/Instagram-FFB3C6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vincenchrriss_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8D0F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/4gQQNoW)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vincenchrriss_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/4gQQNoW) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vincchris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vincchris&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincchris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vincchris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vincchris&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vincchris&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧸 About Me
 
-![snake gif](https://github.com/vincchris/vincchris/blob/output/github-snake-dark.svg)
+Hi, I'm **Vincent Christian** 👋  
+An **AI Engineer & Software Developer** who loves building intelligent systems and digital solutions that make a real impact. I believe every project is a chance to learn, experiment, and create something meaningful. 🌷
+
+> 🌱 *"Continuous learning, creativity, and persistence are the key drivers of innovation."*
+
+|  |  |
+|---|---|
+| 🤖 **Currently exploring** | Artificial Intelligence, Machine Learning & AI Automation |
+| 🌐 **Also learning** | Full-Stack Web Development |
+| ⛓️ **Curious about** | Blockchain Technology |
+| 💼 **Status** | Freelancer & aspiring startup founder 🚀 |
+| 🎯 **Goal** | Turning ideas into scalable apps that deliver real value |
+
+---
+
+## 🧰 Tech Stack
+
+**💬 Languages**  
+<img src="https://skillicons.dev/icons?i=js,py&theme=light" alt="languages" />
+
+**🧠 Machine Learning Libraries**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=light" alt="ml" />  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**⚡ AI Automation**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-7C5CFF?style=for-the-badge&logoColor=white)
+![Pi Agent](https://img.shields.io/badge/Pi%20Agent-FFB347?style=for-the-badge&logoColor=white)
+
+**🛠️ Also in my toolbox**  
+<img src="https://skillicons.dev/icons?i=react,django,html,css,mongodb,mysql,solidity,git,github,figma,gcp,vercel&theme=light" alt="tools" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vincchris&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=16" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincchris&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=16" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vincchris&theme=catppuccin-latte&hide_border=true&border_radius=16" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vincchris&theme=flat&no-frame=true&no-bg=true&margin-w=6" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/vincchris/vincchris/output/github-snake.svg" alt="snake" />
+
+<br/>
+
+☕ *Thanks for stopping by, let's build something cozy together!* 🌼
+
+<img src="https://visitcount.itsvg.in/api?id=vincchris&icon=0&color=0" alt="visitors" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6C0&height=100&section=footer" alt="footer" />
+
+</div>
